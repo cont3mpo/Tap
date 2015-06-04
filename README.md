@@ -2,7 +2,7 @@
 Descarga imágenes masivamente desde cualquier sitio en Linux (Download pictures from any site in Linux)
 
 <ul>
-<li>tap.sh - Tap permite descargar imágenes masivamente (JPG, JPEG, PNG, GIF). Probado en sitios donde se suelen subir imágenes,  como Imgur, Facebook, Twitter, Instagram,
+<li>tap.sh - Tap permite descargar imágenes masivamente desde una url (JPG, JPEG, PNG, GIF). Probado en sitios donde se suelen subir imágenes,  como Imgur, Facebook, Twitter, Instagram,
 Deviantart, 4chan, Reddit, Flickr, Dribbble, y Pinterest. Funciona con HTTP/HTTPS.</li>
 </ul>
 
