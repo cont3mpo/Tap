@@ -8,6 +8,6 @@ Deviantart, 4chan, Reddit, Flickr, Dribbble, y Pinterest. Funciona con HTTP/HTTP
 
 Modo de uso: ./tap.sh "http://sitio.com/asdf"
 
-Tap es un bash script que necesita permisos de ejecución (en Terminal: chmod +x tap.sh)
+Tap es un bash script que necesita permisos de ejecución (en Terminal: chmod +x tap.sh). Tap requiere de curl, wget, y notify-send para funcionar.
 
 Para explicaciones detalladas y percances, visitar: 
