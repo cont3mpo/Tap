@@ -8,6 +8,6 @@ Deviantart, 4chan, Reddit, Flickr, Dribbble, y Pinterest. Funciona con HTTP/HTTP
 
 Modo de uso: ./tap.sh "http://sitio.com/"
 
-Tap es un bash script que necesita permisos de ejecución (en Terminal: chmod +x tap.sh). Tap requiere de curl, wget, y notify-send para funcionar. Usen Homebrew para instalar wget en OSX, las notificaciones de escritorio solo funcionan en Linux.
+Tap es un bash script que necesita permisos de ejecución (en Terminal: chmod +x tap.sh). Tap requiere de curl, wget, y notify-send para funcionar. Usen Homebrew para instalar wget en OS X, las notificaciones de escritorio solo funcionan en Linux.
 
 Para explicaciones detalladas, visitar: http://cont3mpo.blogspot.com/2015/06/tap-descarga-imagenes-masivamente.html
