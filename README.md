@@ -6,7 +6,7 @@ Descarga imágenes masivamente desde cualquier sitio en Linux y OS X (Download p
 Deviantart, 4chan, Reddit, Flickr, Dribbble, y Pinterest. Funciona con HTTP/HTTPS.</li>
 </ul>
 
-Modo de uso: ./tap.sh "http://sitio.com/"
+Funcionamiento: <code>./tap.sh "http://sitio.com/"</code>
 
 Tap es un bash script que necesita permisos de ejecución (en Terminal: chmod +x tap.sh). Tap requiere de curl y wget para funcionar. Usen Homebrew para instalar wget en OS X.
 
