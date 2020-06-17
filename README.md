@@ -10,4 +10,4 @@ Funcionamiento: <code>./tap.sh "http://sitio.com/"</code>
 
 Tap es un bash script que necesita permisos de ejecución (en Terminal: chmod +x tap.sh). Tap requiere de curl y wget para funcionar. Usen Homebrew para instalar wget en macOS.
 
-Para explicaciones detalladas, visitar: http://cont3mpo.blogspot.com/2015/06/tap-descarga-imagenes-masivamente.html
+Para explicaciones detalladas, visitar: https://cont3mpo.github.io/post/2015/tap-descarga-imagenes-masivamente.html
